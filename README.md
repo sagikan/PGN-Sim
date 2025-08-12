@@ -56,4 +56,4 @@ pip install python-chess
 
 ## 🙃 Enjoy!
 
-Feel free to modify the source code or bitmaps.
+Feel free to modify the scripts.
